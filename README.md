@@ -3,8 +3,6 @@
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JohnTrunix)
 [![Website](https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2Fjohn-trunix.ch)](https://www.john-trunix.ch)
 
----
-
 <table
     style="
         width: 100%;
