@@ -48,7 +48,6 @@
     <img src="./blocks.png" title="Raspberry" alt="Raspberry" width="100%" />
     <br />
     <br />
-    <br />
     <h1>📈 - My Stats</h1>
     <div style="display: flex; flex-direction: column; justify-content: center">
         <table
