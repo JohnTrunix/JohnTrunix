@@ -1,9 +1,4 @@
 <div id="header" align="center">
-    <img
-        src="https://media.giphy.com/media/br99SojJZ5rlfSYset/giphy.gif"
-        width="100%"
-        height="100"
-    />
     <div id="bages">
         <a href="https://www.linkedin.com/in/john-truninger/">
             <img
@@ -75,9 +70,7 @@
         <img
             src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg"
             title="React"
-            ,
             alt="React"
-            ,
             width="40"
         />
         <img
