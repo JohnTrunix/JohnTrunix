@@ -47,7 +47,7 @@
     <h1>🛠️ - Languages and Tools I like:</h1>
     <div
         style="
-            background-color: white;
+            background-color: #ffffff;
             border-radius: 1rem;
             padding: 1rem;
             display: flex;
@@ -138,48 +138,56 @@
     <br />
     <h1>📈 - My Stats</h1>
     <div style="display: flex; flex-direction: column; justify-content: center">
-        <img
-            src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=johntrunix&theme=github"
-            alt="Stats"
-            width="100%"
-        />
-        <div
+        <table
             style="
-                display: flex;
-                flex-direction: row;
                 width: 100%;
                 justify-content: center;
+                margin: 0;
+                padding: 0;
+                border: none;
             "
         >
-            <img
-                src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=johntrunix&theme=github"
-                alt="TopLanguagesRepo"
-                width="50%"
-            />
-            <img
-                src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=johntrunix&theme=github"
-                alt="TopLanguagesRepo"
-                width="50%"
-            />
-        </div>
-        <div
-            style="
-                display: flex;
-                flex-direction: row;
-                width: 100%;
-                justify-content: center;
-            "
-        >
-            <img
-                src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=johntrunix&theme=github"
-                alt="Stats"
-                width="50%"
-            />
-            <img
-                src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=johntrunix&theme=github&utcOffset=8"
-                alt="Commits"
-                width="50%"
-            />
-        </div>
+            <tr>
+                <td colspan="2">
+                    <img
+                        src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=johntrunix&theme=github"
+                        alt="Stats"
+                        width="100%"
+                    />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <img
+                        src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=johntrunix&theme=github"
+                        alt="TopLanguagesRepo"
+                        width="100%"
+                    />
+                </td>
+                <td>
+                    <img
+                        src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=johntrunix&theme=github"
+                        alt="TopLanguagesRepo"
+                        width="100%"
+                    />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <img
+                        src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=johntrunix&theme=github"
+                        alt="Stats"
+                        width="100%"
+                    />
+                </td>
+                <td>
+                    <img
+                        src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=johntrunix&theme=github&utcOffset=8"
+                        alt="Commits"
+                        width="100%"
+                    />
+                </td>
+            </tr>
+        </table>
     </div>
 </h1>
