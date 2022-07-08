@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div align="center">
     <div id="bages">
         <a href="https://www.linkedin.com/in/john-truninger/">
             <img
@@ -45,95 +45,8 @@
     </ul>
     <br />
     <h1>🛠️ - Languages and Tools I like:</h1>
-    <div
-        style="
-            background-color: #ffffff;
-            border-radius: 1rem;
-            padding: 1rem;
-            display: flex;
-            justify-content: space-around;
-            flex-wrap: wrap;
-        "
-    >
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg"
-            title="Python"
-            alt="Python"
-            width="40"
-        />
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/markdown/markdown-original.svg"
-            title="Markdown"
-            alt="Markdown"
-            width="40"
-        />
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg"
-            title="React"
-            alt="React"
-            width="40"
-        />
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/latex/latex-original.svg"
-            title="Latex"
-            alt="Latex"
-            width="40"
-        />
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jupyter/jupyter-original-wordmark.svg"
-            title="Jupyter"
-            alt="Jupyter"
-            width="40"
-        />
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/anaconda/anaconda-original.svg"
-            title="Anaconda"
-            alt="Anaconda"
-            width="40"
-        />
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original.svg"
-            title="Docker"
-            alt="Docker"
-            width="40"
-        />
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg"
-            title="VSCode"
-            alt="VSCode"
-            width="40"
-        />
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg"
-            title="Github"
-            alt="Github"
-            width="40"
-        />
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg"
-            title="Git"
-            alt="Git"
-            width="40"
-        />
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/kaggle/kaggle-original.svg"
-            title="Kaggle"
-            alt="Anaconda"
-            width="40"
-        />
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ubuntu/ubuntu-plain.svg"
-            title="Ubuntu"
-            alt="Ubuntu"
-            width="40"
-        />
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/raspberrypi/raspberrypi-original.svg"
-            title="Raspberry"
-            alt="Raspberry"
-            width="40"
-        />
-    </div>
+    <img src="./blocks.png" title="Raspberry" alt="Raspberry" width="100%" />
+    <br />
     <br />
     <br />
     <h1>📈 - My Stats</h1>
