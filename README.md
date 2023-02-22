@@ -3,6 +3,18 @@
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JohnTrunix)
 [![Website](https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2Fjohn-trunix.ch)](https://www.john-trunix.ch)
 
+---
+
+### Welcome to my GitHub Profile :octocat:
+
+My Interests:
+
+-   Data Science & Machine Learning :bar_chart:
+    -   Data Analysis
+    -   Computer Vision & Image Processing
+-   Application Development :computer:
+-   OOP in Python :snake:
+
 <table
     style="
         width: 100%;
@@ -24,22 +36,6 @@
     <tr>
         <td>
             <img
-                src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=johntrunix&theme=github"
-                alt="TopLanguagesRepo"
-                width="100%"
-            />
-        </td>
-        <td>
-            <img
-                src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=johntrunix&theme=github"
-                alt="Stats"
-                width="100%"
-            />
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <img
                 src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=johntrunix&theme=github"
                 alt="TopLangugesCommit"
                 width="100%"
@@ -47,8 +43,8 @@
         </td>
         <td>
             <img
-                src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=johntrunix&theme=github&utcOffset=8"
-                alt="Commits"
+                src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=johntrunix&theme=github"
+                alt="Stats"
                 width="100%"
             />
         </td>
