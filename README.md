@@ -16,7 +16,7 @@
 const john = {
     name: "John Trunix",
     origin: "Switzerland",
-    languages: ["en_US", "de_CH", "de_DE"],
+    languages: ["en_US", "de_CH"],
     technologies: {
         languages: ["Python", "JavaScript", "LaTeX"],
         frameworks: [
