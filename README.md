@@ -1,15 +1,3 @@
-```text
-      _       _         _____                 _
-     | | ___ | |__  _ _|_   _| __ _   _ _ __ (_)_  __
-  _  | |/ _ \| '_ \| '_ \| || '__| | | | '_ \| \ \/ /
- | |_| | (_) | | | | | | | || |  | |_| | | | | |>  <
-  \___/ \___/|_| |_|_| |_|_||_|   \__,_|_| |_|_/_/\_\
-```
-
-![](https://komarev.com/ghpvc/?username=JohnTrunix&color=blueviolet&style=flat-square&label=Profile+Views)
-![](https://img.shields.io/github/followers/JohnTrunix?color=blueviolet&label=Followers&style=flat-square)
-![](https://img.shields.io/github/stars/JohnTrunix?color=blueviolet&label=Stars&style=flat-square)
-
 ```tf
 resource "github_profile" "this" {
   name      = "JohnTrunix"
@@ -20,25 +8,27 @@ resource "github_profile" "this" {
 
   code {
     languages  = ["Python", "JavaScript", "Go", "R"]
-    frameworks = ["Angular", "Django", "Flask", "Celery"]
+    frameworks = ["Angular", "Django", "FastAPI", "Flask", "Celery"]
     storage    = ["PostgreSQL", "Redis", "MongoDB"]
 
     cloud {
       providers = ["AWS"]
-      platforms = ["Kubernetes"]
-      tools     = ["Terraform"]
+      platforms = ["Kubernetes", "EKS"]
+      tools     = ["OpenTofu"]
     }
 
     other {
-      containers = ["Docker", "Podman"]
-      vcs        = ["Git", "Gitlab", "GitHub"]
-      ci_cd      = ["GitLab CI", "GitHub Actions"]
+      containers    = ["Docker", "Podman"]
+      vcs           = ["Git", "GitLab", "GitHub"]
+      ci_cd         = ["GitLab CI", "Argo CD", "GitHub Actions"]
+      observability = ["Loki", "Grafana", "Tempo", "Mimir", "Alloy"]
     }
   }
 
   interests = [
     "Open Source",
     "DevOps",
+    "GitOps",
     "Cloud Native",
     "Microservices",
     "Containerization",
